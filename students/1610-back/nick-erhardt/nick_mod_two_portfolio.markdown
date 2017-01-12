@@ -63,7 +63,7 @@ Subjective evaluation will be made on your work/process according to the followi
 ### Group Projects
 
 
-# Need little shop
+#### [Litte Shop scores](https://gist.github.com/ski-climb/6a3d1d898f40e17dfe2a3a89a989bfa4)
 
 #### [Bike Share](https://github.com/jdconrad89/bike-share)
 
